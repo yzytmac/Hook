@@ -7,4 +7,5 @@
 启动清单中未注册的Activity。  
 为什么不直接在清单中注册好Activity呢？因为有些Activity我们并不知道。比如插件化开发。所以hook技术最主要的用途就是插件化开发来启动插件中的Activity。这里先以启动本地未注册的Activity来演示，后期再结合插件化来启动插件中的Activity  
 有什么错误欢迎指出，邮箱： yzytmac@163.com  
-
+- 如果觉得有用，不吝啬在右上角给我一个Star。谢谢！！  
+![](https://raw.githubusercontent.com/yzytmac/yzytmac.github.io/master/images/star.png)  
